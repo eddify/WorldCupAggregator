@@ -1,0 +1,14 @@
+{
+  "name": "WorldCupAggregator",
+  "version": "0.0.0",
+  "description": "WorldCupAggregator",
+  "main": "app.js",
+  "author": {
+    "name": "eddy kim",
+    "email": "eddykim87@gmail.com"
+  },
+  "dependencies": {
+    "mongodb": "^1.4.6",
+    "twitter": "^0.2.9"
+  }
+}
